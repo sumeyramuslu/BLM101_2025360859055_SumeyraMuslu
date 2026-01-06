@@ -19,7 +19,7 @@
 ---
 
 ##  YouTube Video Linki
-🔗 https://www.youtube.com/XXXXXXXXXXX  
+   https://youtu.be/jJ-4h5rFyzg 
 *(Video, sunum anlatımı ve Python kodunun çalıştırılmasını içermektedir.)*
 
 ---
